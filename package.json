@@ -23,7 +23,7 @@
     "fs-extra": "^0.26.7",
     "lodash.template": "^4.2.2",
     "temp": "^0.8.3",
-    "snyk": "^1.23.4"
+    "snyk": "^1.189.0"
   },
   "devDependencies": {
     "ava": "^0.13.0",
